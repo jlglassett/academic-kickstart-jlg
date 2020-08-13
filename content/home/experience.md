@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -32,13 +32,13 @@ date_format = "Jan 2006"
 #  * Deploying
  
 
-#[[experience]]
-#  title = ""
-#  company = ""
-#  company_url = ""
-#  location = ""
-#  date_start = ""
-#  date_end = ""
-#  description = """ """
+[[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "Washington State University, Department of Mathematics and Statistics"
+  company_url = "http://www.math.wsu.edu/"
+  location = "Washington"
+  date_start = "2014-08-15"
+  date_end = "2019-06-15"
+  description = """ Insturctor for various mathematics courses including Linear Algebra."""
 
 +++
