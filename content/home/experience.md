@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 #[[experience]]
-#  title = "Teaching Assistant"
- # company = "Washington State Unviersity"
+#  title = ""
+#  company = ""
 #  company_url = ""
-#  location = "Washington"
- # date_start = "2014-08-15"
-#  date_end = "2019-06-15"
- # description = """Taught various amthematics including linear algebra and calculus"""
+#  location = ""
+#  date_start = ""
+#  date_end = ""
+#  description = """"""
 
 +++
