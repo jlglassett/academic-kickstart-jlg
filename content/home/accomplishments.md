@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -18,15 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Machine Learning"
-  url = "https://www.coursera.org/learn/machine-learning"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/KD24VCMHG9DD"
-  date_start = ""
-  date_end = "2020-06-15"
-  description = "Into to Machine Learnign concepts through MatLab"
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Machine Learning"
+#  url = "https://www.coursera.org/learn/machine-learning"
+#  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/KD24VCMHG9DD"
+#  date_start = ""
+#  date_end = "2020-06-15"
+#  description = "Into to Machine Learnign concepts through MatLab"
 
 #[[item]]
  # organization = "edX"
