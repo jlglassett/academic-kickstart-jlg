@@ -24,7 +24,6 @@ interests:
 - Matrix Computation and Theory
 - Data Analytics
 - Machine Learning
--
 
 education:
   courses:
@@ -45,7 +44,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:jlouiseglassett@gmail.com".
 - icon: linkedin
   icon_pack: fab
-  link: hhttps://www.linkedin.com/in/dr-jlglassett/
+  link: https://www.linkedin.com/in/dr-jlglassett/
 - icon: github
   icon_pack: fab
   link: https://github.com/jlglassett
