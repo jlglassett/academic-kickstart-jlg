@@ -32,13 +32,13 @@ date_format = "Jan 2006"
 #  * Deploying
   """
 
-[[experience]]
-  title = "Teaching Assistant"
-  company = "Washington State Unviersity"
-  company_url = ""
-  location = "Washington"
-  date_start = "2014-08-15"
-  date_end = "2019-06-15"
-  description = """Taught various amthematics including linear algebra and calculus"""
+#[[experience]]
+#  title = "Teaching Assistant"
+ # company = "Washington State Unviersity"
+#  company_url = ""
+#  location = "Washington"
+ # date_start = "2014-08-15"
+#  date_end = "2019-06-15"
+ # description = """Taught various amthematics including linear algebra and calculus"""
 
 +++
